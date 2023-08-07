@@ -1,0 +1,22 @@
+PODS:
+  - apple_vision_flutter (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+
+DEPENDENCIES:
+  - apple_vision_flutter (from `Flutter/ephemeral/.symlinks/plugins/apple_vision_flutter/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+
+EXTERNAL SOURCES:
+  apple_vision_flutter:
+    :path: Flutter/ephemeral/.symlinks/plugins/apple_vision_flutter/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+
+SPEC CHECKSUMS:
+  apple_vision_flutter: d64d4f9e9f821342cf05e9e0163f062772fb91f7
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+
+PODFILE CHECKSUM: c2e95c8c0fe03c5c57e438583cae4cc732296009
+
+COCOAPODS: 1.11.2
